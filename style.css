@@ -99,19 +99,19 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #a0522d
+    border: 1px solid #81830a
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
+    background-color: #057a1e;
     color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #0a5d68;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
