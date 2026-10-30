@@ -1,3 +1,6 @@
+
+style.css
+100%
 /* =========================================================
    PADARIA PÃO & CIA — CSS do Encontro 1
    Paleta com contraste aprovado no padrão WCAG AA
@@ -9,16 +12,16 @@
 }
 
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #867db9;             /* marrom escuro (texto) */
-    background-color:#d1a7a7 /* creme (fundo) */
+    color: #3B2A1E;             /* marrom escuro (texto) */
+    background-color: #FFF8F0;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-  background-color: 	#2f5344
+    background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -34,7 +37,7 @@ body {
 }
 
 .menu a {
-    color: #ac8970
+    color: #FFFFFF;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,10 +55,10 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #fa6e03;
+    border-left: 4px solid #A0521A;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #dac8b3;
+    background-color: #FDEEDC;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
@@ -67,7 +70,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #243605
+    border: 1px solid #E0C9A6;
     border-radius: 8px;
     padding: 12px;
     background-color: #FFFFFF;
@@ -99,21 +102,22 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #81830a
+    border: 1px solid #E0C9A6;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #cab17b;
-    color: #e9c2c2;
+    background-color: #A0521A;
+    color: #FFFFFF;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #9e4c41;
+    background-color: #3B2A1E;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
     margin-top: 24px;
 }
+Exibindo style.css…
