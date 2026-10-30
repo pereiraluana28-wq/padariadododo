@@ -12,13 +12,13 @@ body {
     font-family: Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #3B2A1E;             /* marrom escuro (texto) */
+    color: #4b301e;             /* marrom escuro (texto) */
     background-color:#FFFFFF /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-  background-color: 	#be3e53
+  background-color: 	#1dd689
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
